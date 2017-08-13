@@ -1,0 +1,622 @@
+# depslib dependency file v1.0
+1460520181 source:c:\users\leandro\desktop\cg\cg\src\01_quad.cpp
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+	"ListaPontos.h"
+
+1368294560 c:\users\leandro\desktop\cg\cg\include\gl\glut.h
+	"freeglut_std.h"
+
+1368294560 c:\users\leandro\desktop\cg\cg\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1460518978 c:\users\leandro\desktop\cg\cg\src\include\listapontos.h
+	"Point.h"
+	<stdio.h>
+	<iostream>
+
+1460518442 c:\users\leandro\desktop\cg\cg\src\include\point.h
+
+1460517626 source:c:\users\leandro\desktop\cg\cg\src\src\point.cpp
+	"Point.h"
+
+1460519945 source:c:\users\leandro\desktop\cg\cg\src\src\listapontos.cpp
+	"ListaPontos.h"
+
+1461161614 source:c:\users\leandro\desktop\arquivos\cg\exemplos\05_triangle_anim.cpp
+	<GL/glut.h>
+
+1368294560 c:\users\leandro\desktop\arquivos\cg\cg\include\gl\glut.h
+	"freeglut_std.h"
+
+1368294560 c:\users\leandro\desktop\arquivos\cg\cg\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1461874592 source:c:\users\leandro\desktop\arquivos\cg\exemplos\braco3d.c
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+
+1462233638 source:c:\users\leandro\desktop\arquivos\cg\exemplos\curvasinterativas.cpp
+	<windows.h>
+	<GL/glui.h>
+	<GL/glut.h>
+
+1152222178 c:\users\leandro\desktop\arquivos\cg\cg\include\gl\glui.h
+	<GL/freeglut.h>
+	<GL/openglut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1368294560 c:\users\leandro\desktop\arquivos\cg\cg\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1368294560 c:\users\leandro\desktop\arquivos\cg\cg\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1462653286 source:c:\users\leandro\desktop\arquivos\cg\exercicios\listapontos.cpp
+	"ListaPontos.h"
+
+1462543304 c:\users\leandro\desktop\arquivos\cg\exercicios\listapontos.h
+	"Point.h"
+	<stdio.h>
+	<iostream>
+
+1462396524 c:\users\leandro\desktop\arquivos\cg\exercicios\point.h
+
+1462538541 source:c:\users\leandro\desktop\arquivos\cg\exercicios\point.cpp
+	"Point.h"
+
+1462656202 source:c:\users\leandro\desktop\arquivos\cg\exercicios\desenha.cpp
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+	"ListaPontos.h"
+	<stdio.h>
+	<iostream>
+
+1462535432 source:c:\users\leandro\desktop\glctext.cpp
+	<stdio.h>
+	<string.h>
+	<GL/glut.h>
+	"glcText.h"
+
+1462535439 c:\users\leandro\desktop\glctext.h
+
+1462537067 source:c:\users\leandro\desktop\trab_cg_desenv1_hemerson_e_leandro.cpp
+	<windows.h>
+	<iostream>
+	<string>
+	<GL/glui.h>
+	<GL/glut.h>
+	<string.h>
+	"glcText.h"
+
+1462656202 source:d:\faculdade\computação gráfica\exercicios\desenha.cpp
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+	"ListaPontos.h"
+	<stdio.h>
+	<iostream>
+
+1368294560 d:\faculdade\computação gráfica\cg\include\gl\glut.h
+	"freeglut_std.h"
+
+1368294560 d:\faculdade\computação gráfica\cg\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1464999801 d:\faculdade\computação gráfica\exercicios\listapontos.h
+	"Point.h"
+	<stdio.h>
+	<iostream>
+
+1462396524 d:\faculdade\computação gráfica\exercicios\point.h
+
+1465000262 source:d:\faculdade\computação gráfica\exercicios\listapontos.cpp
+	"ListaPontos.h"
+
+1462538541 source:d:\faculdade\computação gráfica\exercicios\point.cpp
+	"Point.h"
+
+1380243200 source:d:\faculdade\computação gráfica\cg\src\gluiexample.cpp
+	<string.h>
+	<GL/glui.h>
+
+1152222178 d:\faculdade\computação gráfica\cg\include\gl\glui.h
+	<GL/freeglut.h>
+	<GL/openglut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1368294560 d:\faculdade\computação gráfica\cg\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1368294560 d:\faculdade\computação gráfica\cg\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1463596940 source:d:\faculdade\computação gráfica\cg\src\main.cpp
+	<GL/glut.h>
+	<iostream>
+	<stdio.h>
+	"../include/GameManager.h"
+
+1462978274 source:d:\faculdade\computação gráfica\cg\src\gamemanager.cpp
+	"GameManager.h"
+
+1463001164 d:\faculdade\computação gráfica\cg\src\gamemanager.h
+
+1462978274 source:d:\faculdade\computação gráfica\cg\src\gameobject.cpp
+	"GameObject.h"
+
+1463001609 d:\faculdade\computação gráfica\cg\src\gameobject.h
+
+1464922145 source:d:\faculdade\computação gráfica\cg\src\src\ball.cpp
+	"../include/Ball.h"
+	<stdio.h>
+	<iostream>
+
+1463542118 d:\faculdade\computação gráfica\cg\src\include\ball.h
+	<GL/glut.h>
+	<math.h>
+	"GameObject.h"
+	"Player.h"
+
+1463542118 d:\faculdade\computação gráfica\cg\src\include\gameobject.h
+
+1463592985 source:d:\faculdade\computação gráfica\cg\src\src\gamemanager.cpp
+	"../include/GameManager.h"
+
+1463542118 d:\faculdade\computação gráfica\cg\src\include\gamemanager.h
+	"Ball.h"
+	"Player.h"
+	"Table.h"
+	<time.h>
+	<stdio.h>
+	"Interface.h"
+
+1463577755 source:d:\faculdade\computação gráfica\cg\src\src\gameobject.cpp
+	"../include/GameObject.h"
+
+1463594732 source:d:\faculdade\computação gráfica\cg\src\src\player.cpp
+	"../include/Player.h"
+	<stdio.h>
+
+1463542118 d:\faculdade\computação gráfica\cg\src\include\player.h
+	<math.h>
+	<GL/glut.h>
+	"GameObject.h"
+	"Ball.h"
+
+1463577540 d:\faculdade\computação gráfica\cg\src\include\table.h
+	<GameObject.h>
+	<GL/glut.h>
+
+1463577949 d:\faculdade\computação gráfica\cg\src\include\interface.h
+	"../include/GameObject.h"
+	"glcText.h"
+	<time.h>
+	<stdio.h>
+
+1465532250 d:\faculdade\computação gráfica\cg\src\include\glctext.h
+
+1465532250 source:d:\faculdade\computação gráfica\cg\src\src\glctext.cpp
+	<stdio.h>
+	<string.h>
+	<GL/glut.h>
+	"glcText.h"
+
+1463596940 source:d:\faculdade\computação gráfica\cg\src\src\interface.cpp
+	"../include/Interface.h"
+
+1463542122 source:d:\faculdade\computação gráfica\cg\src\src\table.cpp
+	"../include/Table.h"
+
+1465000298 source:d:\faculdade\computação gráfica\exercicios\curva de bezier.cpp
+	<stdio.h>
+	<math.h>
+	<GL/glut.h>
+	"ListaPontos.h"
+	<stdio.h>
+	<iostream>
+
+1462215939 source:d:\faculdade\computação gráfica\exemplos\08_viewport.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1465164189 source:d:\faculdade\computação gráfica\exemplos\camerarotation.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	<iostream>
+
+1465532250 source:d:\faculdade\computação gráfica\cg\src\src\beziercurve.cpp
+	"BezierCurve.h"
+
+1465532250 d:\faculdade\computação gráfica\cg\src\include\beziercurve.h
+	"Vertex3d.h"
+	<iostream>
+	<list>
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"glcText.h"
+
+1465532254 d:\faculdade\computação gráfica\cg\src\include\vertex3d.h
+	<stdio.h>
+	<stdlib.h>
+
+1465532254 source:d:\faculdade\computação gráfica\cg\src\src\vertex3d.cpp
+	"Vertex3d.h"
+
+1465703148 source:d:\faculdade\computação gráfica\cg\src\trab_cg_desenv2.cpp
+	<windows.h>
+	<iostream>
+	<GL/glui.h>
+	<GL/glut.h>
+	"BezierCurve.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	"Camera.h"
+	"solidoRevolucao.h"
+
+1465532250 source:d:\faculdade\computação gráfica\cg\src\src\bezierobj.cpp
+	"BezierObj.h"
+
+1465532250 d:\faculdade\computação gráfica\cg\src\include\bezierobj.h
+	"BezierCurve.h"
+
+1465569322 d:\faculdade\computação gráfica\cg\src\beziercurve.h
+	"Vertex3d.h"
+	<iostream>
+	<list>
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"glcText.h"
+
+1465569324 d:\faculdade\computação gráfica\cg\src\vertex3d.h
+	<stdio.h>
+	<stdlib.h>
+
+1465569322 d:\faculdade\computação gráfica\cg\src\glctext.h
+
+1465569322 d:\faculdade\computação gráfica\cg\src\camera.h
+	<iostream>
+	<GL/glui.h>
+	<GL/glut.h>
+	"BezierCurve.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	"Ambient.h"
+
+1465569320 d:\faculdade\computação gráfica\cg\src\ambient.h
+	<iostream>
+	<GL/glui.h>
+	<GL/glut.h>
+	"BezierCurve.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+
+1465703053 d:\faculdade\computação gráfica\cg\src\solidorevolucao.h
+	<iostream>
+	<GL/glui.h>
+	<GL/glut.h>
+	"BezierCurve.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	"BezierFunctions.h"
+	"Vertex3d.h"
+
+1465569322 d:\faculdade\computação gráfica\cg\src\bezierfunctions.h
+	<iostream>
+	<GL/glui.h>
+	<GL/glut.h>
+	"BezierObj.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+
+1465569322 d:\faculdade\computação gráfica\cg\src\bezierobj.h
+	"BezierCurve.h"
+
+1465569322 source:d:\faculdade\computação gráfica\cg\src\beziercurve.cpp
+	"BezierCurve.h"
+
+1465569322 source:d:\faculdade\computação gráfica\cg\src\bezierobj.cpp
+	"BezierObj.h"
+
+1465569322 source:d:\faculdade\computação gráfica\cg\src\glctext.cpp
+	<stdio.h>
+	<string.h>
+	<GL/glut.h>
+	"glcText.h"
+
+1465569324 source:d:\faculdade\computação gráfica\cg\src\vertex3d.cpp
+	"Vertex3d.h"
+
+1120553092 source:d:\faculdade\computação gráfica\exemplos\glui\example1.cpp
+	<string.h>
+	<GL/glui.h>
+
+1120553094 source:d:\faculdade\computação gráfica\exemplos\glui\example3.cpp
+	<string.h>
+	<GL/glui.h>
+
+1465569322 source:d:\faculdade\computação gráfica\cg1\src\beziercurve.cpp
+	"BezierCurve.h"
+
+1465569322 d:\faculdade\computação gráfica\cg1\src\beziercurve.h
+	"Vertex3d.h"
+	<iostream>
+	<list>
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"glcText.h"
+
+1465569324 d:\faculdade\computação gráfica\cg1\src\vertex3d.h
+	<stdio.h>
+	<stdlib.h>
+
+1368294560 d:\faculdade\computação gráfica\cg1\include\gl\glut.h
+	"freeglut_std.h"
+
+1368294560 d:\faculdade\computação gráfica\cg1\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1465569322 d:\faculdade\computação gráfica\cg1\src\glctext.h
+
+1465569322 source:d:\faculdade\computação gráfica\cg1\src\bezierobj.cpp
+	"BezierObj.h"
+
+1465569322 d:\faculdade\computação gráfica\cg1\src\bezierobj.h
+	"BezierCurve.h"
+
+1465569322 source:d:\faculdade\computação gráfica\cg1\src\glctext.cpp
+	<stdio.h>
+	<string.h>
+	<GL/glut.h>
+	"glcText.h"
+
+1466602300 source:d:\faculdade\computação gráfica\cg1\src\trab_cg_desenv2.cpp
+	<windows.h>
+	<iostream>
+	<GL/glui.h>
+	<GL/glut.h>
+	"BezierCurve.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	"Camera.h"
+	"solidoRevolucao.h"
+
+1152222178 d:\faculdade\computação gráfica\cg1\include\gl\glui.h
+	<GL/freeglut.h>
+	<GL/openglut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1368294560 d:\faculdade\computação gráfica\cg1\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1368294560 d:\faculdade\computação gráfica\cg1\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1465569322 d:\faculdade\computação gráfica\cg1\src\camera.h
+	<iostream>
+	<GL/glui.h>
+	<GL/glut.h>
+	"BezierCurve.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	"Ambient.h"
+
+1465569320 d:\faculdade\computação gráfica\cg1\src\ambient.h
+	<iostream>
+	<GL/glui.h>
+	<GL/glut.h>
+	"BezierCurve.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+
+1465703053 d:\faculdade\computação gráfica\cg1\src\solidorevolucao.h
+	<iostream>
+	<GL/glui.h>
+	<GL/glut.h>
+	"BezierCurve.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	"BezierFunctions.h"
+	"Vertex3d.h"
+
+1465569322 d:\faculdade\computação gráfica\cg1\src\bezierfunctions.h
+	<iostream>
+	<GL/glui.h>
+	<GL/glut.h>
+	"BezierObj.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+
+1465569324 source:d:\faculdade\computação gráfica\cg1\src\vertex3d.cpp
+	"Vertex3d.h"
+
+1465569322 source:d:\faculdade\computação gráfica\trabalhos\cg1\src\beziercurve.cpp
+	"BezierCurve.h"
+
+1465569322 d:\faculdade\computação gráfica\trabalhos\cg1\src\beziercurve.h
+	"Vertex3d.h"
+	<iostream>
+	<list>
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	"glcText.h"
+
+1465569324 d:\faculdade\computação gráfica\trabalhos\cg1\src\vertex3d.h
+	<stdio.h>
+	<stdlib.h>
+
+1368294560 d:\faculdade\computação gráfica\trabalhos\cg1\include\gl\glut.h
+	"freeglut_std.h"
+
+1368294560 d:\faculdade\computação gráfica\trabalhos\cg1\include\gl\freeglut_std.h
+	<windows.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1465569322 d:\faculdade\computação gráfica\trabalhos\cg1\src\glctext.h
+
+1465569322 source:d:\faculdade\computação gráfica\trabalhos\cg1\src\bezierobj.cpp
+	"BezierObj.h"
+
+1465569322 d:\faculdade\computação gráfica\trabalhos\cg1\src\bezierobj.h
+	"BezierCurve.h"
+
+1465569322 source:d:\faculdade\computação gráfica\trabalhos\cg1\src\glctext.cpp
+	<stdio.h>
+	<string.h>
+	<GL/glut.h>
+	"glcText.h"
+
+1466602300 source:d:\faculdade\computação gráfica\trabalhos\cg1\src\trab_cg_desenv2.cpp
+	<windows.h>
+	<iostream>
+	<GL/glui.h>
+	<GL/glut.h>
+	"BezierCurve.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	"Camera.h"
+	"solidoRevolucao.h"
+
+1152222178 d:\faculdade\computação gráfica\trabalhos\cg1\include\gl\glui.h
+	<GL/freeglut.h>
+	<GL/openglut.h>
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	<string>
+	<vector>
+
+1368294560 d:\faculdade\computação gráfica\trabalhos\cg1\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1368294560 d:\faculdade\computação gráfica\trabalhos\cg1\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1465569322 d:\faculdade\computação gráfica\trabalhos\cg1\src\camera.h
+	<iostream>
+	<GL/glui.h>
+	<GL/glut.h>
+	"BezierCurve.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	"Ambient.h"
+
+1465569320 d:\faculdade\computação gráfica\trabalhos\cg1\src\ambient.h
+	<iostream>
+	<GL/glui.h>
+	<GL/glut.h>
+	"BezierCurve.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+
+1465703053 d:\faculdade\computação gráfica\trabalhos\cg1\src\solidorevolucao.h
+	<iostream>
+	<GL/glui.h>
+	<GL/glut.h>
+	"BezierCurve.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	"BezierFunctions.h"
+	"Vertex3d.h"
+
+1465569322 d:\faculdade\computação gráfica\trabalhos\cg1\src\bezierfunctions.h
+	<iostream>
+	<GL/glui.h>
+	<GL/glut.h>
+	"BezierObj.h"
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+
+1465569324 source:d:\faculdade\computação gráfica\trabalhos\cg1\src\vertex3d.cpp
+	"Vertex3d.h"
+
